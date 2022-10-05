@@ -8,3 +8,4 @@ Creating my first directory in the tmp directory
 Removing a file to a directory
 Deleting a file
 Deleting a directory
+Changing the workingdirectory to the previous one
