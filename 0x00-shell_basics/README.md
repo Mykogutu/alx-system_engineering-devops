@@ -5,3 +5,4 @@ Displaying the currect directory in a long format
 Displaying Hidden files 
 Displaying current content 
 Creating my first directory in the tmp directory
+Removing a file to a directory
