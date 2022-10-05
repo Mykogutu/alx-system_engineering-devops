@@ -4,3 +4,4 @@ A script that changes the working directory to the user home
 Displaying the currect directory in a long format
 Displaying Hidden files 
 Displaying current content 
+Creating my first directory in the tmp directory
