@@ -6,3 +6,4 @@ Displaying Hidden files
 Displaying current content 
 Creating my first directory in the tmp directory
 Removing a file to a directory
+Deleting a file
